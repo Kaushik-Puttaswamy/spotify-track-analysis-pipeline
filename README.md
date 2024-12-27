@@ -85,10 +85,13 @@ LIMIT 1;
 Below are the architecture and UI figures used in the project:
 
 ### 6.1 Spotify Data Pipeline Architecture
+![Spotify Data Pipeline Architecture](https://github.com/Kaushik-Puttaswamy/spotify-track-analysis-pipeline/blob/dev/Spotify_Data_Pipeline_Architecture.png)
 
 ### 6.2 Spotify for Developers Web API UI
+![Spotify for Developers Web API UI](https://github.com/Kaushik-Puttaswamy/spotify-track-analysis-pipeline/blob/dev/Spotify%20for%20developers%20Web%20API%20UI.png)
 
 ### 6.3 Figure 1: Track Analysis Pipeline
+![Track Analysis Pipeline](https://github.com/Kaushik-Puttaswamy/spotify-track-analysis-pipeline/blob/main/Figure_1.png)
 
 ## 7. Conclusion
 This pipeline helps you extract, analyze, and store Spotify track data efficiently. You can visualize the data using bar charts, query it using SQL, and store large datasets in MySQL for more advanced analysis.
